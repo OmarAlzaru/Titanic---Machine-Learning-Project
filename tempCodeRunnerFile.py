@@ -1,0 +1,1 @@
+r'D:\AI\Predicting-Titanic-Survivors/Models/LRModel.pkl'
